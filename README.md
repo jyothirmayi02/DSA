@@ -45,4 +45,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0074-search-a-2d-matrix](https://github.com/jyothirmayi02/DSA/tree/master/0074-search-a-2d-matrix) |
+## String
+|  |
+| ------- |
+| [4006-count-valid-prefixes](https://github.com/jyothirmayi02/DSA/tree/master/4006-count-valid-prefixes) |
+## Counting
+|  |
+| ------- |
+| [4006-count-valid-prefixes](https://github.com/jyothirmayi02/DSA/tree/master/4006-count-valid-prefixes) |
 <!---LeetCode Topics End-->
