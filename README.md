@@ -101,4 +101,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0014-longest-common-prefix](https://github.com/jyothirmayi02/DSA/tree/master/0014-longest-common-prefix) |
+## Database
+|  |
+| ------- |
+| [0595-big-countries](https://github.com/jyothirmayi02/DSA/tree/master/0595-big-countries) |
 <!---LeetCode Topics End-->
