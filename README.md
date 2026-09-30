@@ -15,6 +15,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0018-4sum](https://github.com/jyothirmayi02/DSA/tree/master/0018-4sum) |
 | [0031-next-permutation](https://github.com/jyothirmayi02/DSA/tree/master/0031-next-permutation) |
 | [0036-valid-sudoku](https://github.com/jyothirmayi02/DSA/tree/master/0036-valid-sudoku) |
+| [0039-combination-sum](https://github.com/jyothirmayi02/DSA/tree/master/0039-combination-sum) |
 | [0042-trapping-rain-water](https://github.com/jyothirmayi02/DSA/tree/master/0042-trapping-rain-water) |
 | [0049-group-anagrams](https://github.com/jyothirmayi02/DSA/tree/master/0049-group-anagrams) |
 | [0074-search-a-2d-matrix](https://github.com/jyothirmayi02/DSA/tree/master/0074-search-a-2d-matrix) |
@@ -111,4 +112,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1141-user-activity-for-the-past-30-days-i](https://github.com/jyothirmayi02/DSA/tree/master/1141-user-activity-for-the-past-30-days-i) |
 | [1729-find-followers-count](https://github.com/jyothirmayi02/DSA/tree/master/1729-find-followers-count) |
 | [2356-number-of-unique-subjects-taught-by-each-teacher](https://github.com/jyothirmayi02/DSA/tree/master/2356-number-of-unique-subjects-taught-by-each-teacher) |
+## Backtracking
+|  |
+| ------- |
+| [0039-combination-sum](https://github.com/jyothirmayi02/DSA/tree/master/0039-combination-sum) |
 <!---LeetCode Topics End-->
