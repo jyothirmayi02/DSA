@@ -23,6 +23,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0153-find-minimum-in-rotated-sorted-array](https://github.com/jyothirmayi02/DSA/tree/master/0153-find-minimum-in-rotated-sorted-array) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/jyothirmayi02/DSA/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0217-contains-duplicate](https://github.com/jyothirmayi02/DSA/tree/master/0217-contains-duplicate) |
+| [0283-move-zeroes](https://github.com/jyothirmayi02/DSA/tree/master/0283-move-zeroes) |
 | [0704-binary-search](https://github.com/jyothirmayi02/DSA/tree/master/0704-binary-search) |
 | [0875-koko-eating-bananas](https://github.com/jyothirmayi02/DSA/tree/master/0875-koko-eating-bananas) |
 ## Two Pointers
@@ -34,6 +35,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0031-next-permutation](https://github.com/jyothirmayi02/DSA/tree/master/0031-next-permutation) |
 | [0042-trapping-rain-water](https://github.com/jyothirmayi02/DSA/tree/master/0042-trapping-rain-water) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/jyothirmayi02/DSA/tree/master/0167-two-sum-ii-input-array-is-sorted) |
+| [0283-move-zeroes](https://github.com/jyothirmayi02/DSA/tree/master/0283-move-zeroes) |
 ## Binary Search
 |  |
 | ------- |
