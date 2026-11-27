@@ -28,6 +28,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0283-move-zeroes](https://github.com/jyothirmayi02/DSA/tree/master/0283-move-zeroes) |
 | [0704-binary-search](https://github.com/jyothirmayi02/DSA/tree/master/0704-binary-search) |
 | [0875-koko-eating-bananas](https://github.com/jyothirmayi02/DSA/tree/master/0875-koko-eating-bananas) |
+| [1004-max-consecutive-ones-iii](https://github.com/jyothirmayi02/DSA/tree/master/1004-max-consecutive-ones-iii) |
 ## Two Pointers
 |  |
 | ------- |
@@ -47,6 +48,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0209-minimum-size-subarray-sum](https://github.com/jyothirmayi02/DSA/tree/master/0209-minimum-size-subarray-sum) |
 | [0704-binary-search](https://github.com/jyothirmayi02/DSA/tree/master/0704-binary-search) |
 | [0875-koko-eating-bananas](https://github.com/jyothirmayi02/DSA/tree/master/0875-koko-eating-bananas) |
+| [1004-max-consecutive-ones-iii](https://github.com/jyothirmayi02/DSA/tree/master/1004-max-consecutive-ones-iii) |
 ## Greedy
 |  |
 | ------- |
@@ -107,6 +109,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0003-longest-substring-without-repeating-characters](https://github.com/jyothirmayi02/DSA/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0209-minimum-size-subarray-sum](https://github.com/jyothirmayi02/DSA/tree/master/0209-minimum-size-subarray-sum) |
 | [0424-longest-repeating-character-replacement](https://github.com/jyothirmayi02/DSA/tree/master/0424-longest-repeating-character-replacement) |
+| [1004-max-consecutive-ones-iii](https://github.com/jyothirmayi02/DSA/tree/master/1004-max-consecutive-ones-iii) |
 ## Trie
 |  |
 | ------- |
@@ -139,4 +142,5 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0209-minimum-size-subarray-sum](https://github.com/jyothirmayi02/DSA/tree/master/0209-minimum-size-subarray-sum) |
+| [1004-max-consecutive-ones-iii](https://github.com/jyothirmayi02/DSA/tree/master/1004-max-consecutive-ones-iii) |
 <!---LeetCode Topics End-->
