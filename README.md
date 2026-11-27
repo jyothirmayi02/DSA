@@ -5,6 +5,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0009-palindrome-number](https://github.com/jyothirmayi02/DSA/tree/master/0009-palindrome-number) |
+| [0973-k-closest-points-to-origin](https://github.com/jyothirmayi02/DSA/tree/master/0973-k-closest-points-to-origin) |
 ## Array
 |  |
 | ------- |
@@ -28,6 +29,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0283-move-zeroes](https://github.com/jyothirmayi02/DSA/tree/master/0283-move-zeroes) |
 | [0704-binary-search](https://github.com/jyothirmayi02/DSA/tree/master/0704-binary-search) |
 | [0875-koko-eating-bananas](https://github.com/jyothirmayi02/DSA/tree/master/0875-koko-eating-bananas) |
+| [0973-k-closest-points-to-origin](https://github.com/jyothirmayi02/DSA/tree/master/0973-k-closest-points-to-origin) |
 | [1004-max-consecutive-ones-iii](https://github.com/jyothirmayi02/DSA/tree/master/1004-max-consecutive-ones-iii) |
 ## Two Pointers
 |  |
@@ -103,6 +105,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0056-merge-intervals](https://github.com/jyothirmayi02/DSA/tree/master/0056-merge-intervals) |
 | [0217-contains-duplicate](https://github.com/jyothirmayi02/DSA/tree/master/0217-contains-duplicate) |
 | [0242-valid-anagram](https://github.com/jyothirmayi02/DSA/tree/master/0242-valid-anagram) |
+| [0973-k-closest-points-to-origin](https://github.com/jyothirmayi02/DSA/tree/master/0973-k-closest-points-to-origin) |
 ## Sliding Window
 |  |
 | ------- |
@@ -143,4 +146,24 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0209-minimum-size-subarray-sum](https://github.com/jyothirmayi02/DSA/tree/master/0209-minimum-size-subarray-sum) |
 | [1004-max-consecutive-ones-iii](https://github.com/jyothirmayi02/DSA/tree/master/1004-max-consecutive-ones-iii) |
+## Divide and Conquer
+|  |
+| ------- |
+| [0973-k-closest-points-to-origin](https://github.com/jyothirmayi02/DSA/tree/master/0973-k-closest-points-to-origin) |
+## Geometry
+|  |
+| ------- |
+| [0973-k-closest-points-to-origin](https://github.com/jyothirmayi02/DSA/tree/master/0973-k-closest-points-to-origin) |
+## Heap (Priority Queue)
+|  |
+| ------- |
+| [0973-k-closest-points-to-origin](https://github.com/jyothirmayi02/DSA/tree/master/0973-k-closest-points-to-origin) |
+## Quickselect
+|  |
+| ------- |
+| [0973-k-closest-points-to-origin](https://github.com/jyothirmayi02/DSA/tree/master/0973-k-closest-points-to-origin) |
+## K-D Tree
+|  |
+| ------- |
+| [0973-k-closest-points-to-origin](https://github.com/jyothirmayi02/DSA/tree/master/0973-k-closest-points-to-origin) |
 <!---LeetCode Topics End-->
